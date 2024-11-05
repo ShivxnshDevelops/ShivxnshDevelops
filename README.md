@@ -1,16 +1,18 @@
-![emoji](https://github.com/user-attachments/assets/25b4d65d-e614-4319-92e5-de4b5a7caa15) Hi , I m Shivxnsh !!
+👋 Hi, I’m Shivxnsh wakatime
 
+👀 I’m interested in playing games
 
-<!--
-**ShivxnshDevelops/ShivxnshDevelops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning Python
 
-Here are some ideas to get you started:
+💞️ I’m looking to collaborate on github.com/ShivxnshDevelops/PythonGod1
 
+📫 How to reach me : By My Instagram Page Or Throw A Mail
 
-- 🔭 I’m currently working on Python
-- 🌱 I’m currently learning ... Python
-- 👯 I’m looking to collaborate on ...Discord Bots
-- 🤔 I’m looking for help with ...Python Modules
-- 📫 How to reach me: ...By My instagram
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: .. I recently Started TO Learn Programing
+😄 Pronouns: he/him
+
+⚰️ I am currently working on Zeus
+
+⚡ Fun fact: The longest word in the English language is "pneumonoultramicroscopicsilicovolcanoconiosis," which is a lung disease caused by
+
+ inhaling silica dust , It's Kinda Hard To Pronounce It , Isn't it ? 
+
