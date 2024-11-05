@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Python
 
-💞️ I’m looking to collaborate on github.com/ShivxnshDevelops/PythonGod1
+💞️ I’m looking to collaborate on github.com/ShivxnshDevelops/Zeus
 
 📫 How to reach me : By My Instagram Page Or Throw A Mail
 
