@@ -1,28 +1,60 @@
 <h1 align="center">Hi 👋, I'm Shivxnsh</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivxnshdevelops&label=Profile%20views&color=0e75b6&style=flat" alt="shivxnshdevelops" /> </p>
+I'm a **15 y/o Backend Developer** passionate about technologies and always eager to learn new things.
 
-- 🔭 I’m currently working on [Zeus Discord Bot](https://github.com/ShivxnshDevelops/Zeus)
+[![Gmail](https://img.shields.io/badge/shivxnshdevelops@gmail.com-556DB3?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:contact@samarthdev.me) [![WakaTime](https://wakatime.com/badge/user/a3c0ea3a-e236-4de6-a8ed-d2a02ade4265.svg)](https://wakatime.com/@a3c0ea3a-e236-4de6-a8ed-d2a02ade4265)
 
-- 🌱 I’m currently learning **Python**
+## 🧰 Tech Stack
 
-- 👯 I’m looking to collaborate on [Zeus](https://github.com/ShivxnshDevelops/Zeus)
+Here are a few technologies I've picked up along my learning journey.
 
-- 📫 How to reach me **shivxnshdevelops@gmail.com**
+### Programming Languages
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go&logoColor=00ADD8)
 
-- ⚡ Fun fact **Did you know that a group of owls is called a parliament? 🦉🦉🦉 It's true! This wise gathering of birds is often seen as a symbol of wisdom and knowledge.**
+### Backend Technologies
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Gin Gonic](https://img.shields.io/badge/-Gin%20Gonic-05122A?style=flat&logo=go&logoColor=00ADD8)
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django&logoColor=FFFFFF)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/dev.shivxnsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev.shivxnsh" height="30" width="40" /></a>
-</p>
+### Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&logoColor=47A248)
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### ORMs
+![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=Prisma&logoColor=FFFFFF)
+![Tortoise ORM](https://img.shields.io/badge/-Tortoise%20ORM-05122A?style=flat&logo=tortoise-orm&logoColor=FFFFFF)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivxnshdevelops&show_icons=true&locale=en&layout=compact" alt="shivxnshdevelops" /></p>
+### Tools & Technologies
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivxnshdevelops&show_icons=true&locale=en" alt="shivxnshdevelops" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivxnshdevelops&" alt="shivxnshdevelops" /></p>
+## 📊 GitHub Stats
+
+<div align="center"> 
+  <a href="https://github.com/samarth3301#gh-dark-mode-only">
+    <img
+      src="https://github-readme-stats-steel-omega.vercel.app/api?username=ShivxnshDevelops&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only"
+      alt="My GitHub stats"
+      height="370"
+    />
+  </a>
+  <a href="https://github.com/samarth3301#gh-dark-mode-only">
+    <img
+      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=ShivxnshDevelops&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10#gh-dark-mode-only"
+      alt="My Language stats"
+      height="370"
+    />
+  </a>
+</div>
