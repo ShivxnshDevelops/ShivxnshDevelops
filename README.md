@@ -1,9 +1,10 @@
-# <a href="https://zarif.pro/?ref=ghrdme" target="_blank"><img src="https://github.com/zarifpour/assets/blob/main/gifs/imposter.gif?raw=true" alt="imposter" width="75"></a> 
-<img src="https://imgur.com/C7PX4kM.gif" height="30px" width="30px"> Hello, I'm Shiv4nsh ! 
+<h1 align="center">Hi 👋, I'm Shivxnsh</h1>
 
 I'm a **15 y/o Backend Developer** passionate about technologies and always eager to learn new things.
 
 [![Gmail](https://img.shields.io/badge/shivxnshdevelops@gmail.com-556DB3?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:contact@samarthdev.me) [![WakaTime](https://wakatime.com/badge/user/a3c0ea3a-e236-4de6-a8ed-d2a02ade4265.svg)](https://wakatime.com/@shiv4nsh)
+
+- ⚡ Fun fact **Did you know that a group of owls is called a parliament? 🦉🦉🦉 It's true! This wise gathering of birds is often seen as a symbol of wisdom and knowledge.**
 
 ## 🧰 Tech Stack
 
@@ -46,14 +47,14 @@ Here are a few technologies I've picked up along my learning journey.
 <div align="center"> 
   <a href="https://github.com/samarth3301#gh-dark-mode-only">
     <img
-      src="https://github-readme-stats-steel-omega.vercel.app/api?username=samarth3301&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only"
+      src="https://github-readme-stats-steel-omega.vercel.app/api?username=ShivxnshDevelops&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only"
       alt="My GitHub stats"
       height="370"
     />
   </a>
   <a href="https://github.com/samarth3301#gh-dark-mode-only">
     <img
-      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=samarth3301&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10#gh-dark-mode-only"
+      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=ShivxnshDevelops&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10#gh-dark-mode-only"
       alt="My Language stats"
       height="370"
     />
