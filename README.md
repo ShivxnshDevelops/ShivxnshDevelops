@@ -3,7 +3,7 @@
 
 I'm a **15 y/o Backend Developer** passionate about technologies and always eager to learn new things.
 
-[![Gmail](https://img.shields.io/badge/shivxnshdevelops@gmail.com-556DB3?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:contact@samarthdev.me) [![WakaTime](https://wakatime.com/badge/user/a3c0ea3a-e236-4de6-a8ed-d2a02ade4265.svg)](https://wakatime.com/@a1f19377-3cd0-43e5-a503-d1fecc2ad6de)
+[![Gmail](https://img.shields.io/badge/shivxnshdevelops@gmail.com-556DB3?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:contact@samarthdev.me) [![WakaTime](https://wakatime.com/badge/user/a3c0ea3a-e236-4de6-a8ed-d2a02ade4265.svg)](https://wakatime.com/@shiv4nsh)
 
 ## 🧰 Tech Stack
 
