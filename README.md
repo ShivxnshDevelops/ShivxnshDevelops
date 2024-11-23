@@ -2,9 +2,7 @@
 
 I'm a **15 y/o Backend Developer** passionate about technologies and always eager to learn new things.
 
-[![Gmail](https://img.shields.io/badge/shivxnshdevelops@gmail.com-556DB3?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:contact@samarthdev.me) [![WakaTime](https://wakatime.com/badge/user/a1f19377-3cd0-43e5-a503-d1fecc2ad6de.svg)](https://wakatime.com/@shiv4nsh)
-
-- ⚡ Fun fact **Did you know that a group of owls is called a parliament? 🦉🦉🦉 It's true! This wise gathering of birds is often seen as a symbol of wisdom and knowledge.**
+[![Gmail](https://img.shields.io/badge/-shivxnshdevelops@gmail.com-556DB3?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:contact@samarthdev.me) [![WakaTime](https://wakatime.com/badge/user/a1f19377-3cd0-43e5-a503-d1fecc2ad6de.svg)](https://wakatime.com/@shiv4nsh)
 
 ## 🧰 Tech Stack
 
@@ -54,7 +52,7 @@ Here are a few technologies I've picked up along my learning journey.
   </a>
   <a href="https://github.com/ShivxnshDevelops#gh-dark-mode-only">
     <img
-      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=ShivxnshDevelops&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10#gh-dark-mode-only"
+      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?ShivxnshDevelops&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10#gh-dark-mode-only"
       alt="My Language stats"
       height="370"
     />
